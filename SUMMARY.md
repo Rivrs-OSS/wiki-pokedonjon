@@ -3,6 +3,7 @@
 ## PokeDonjon
 
 * [🏰 Nous Rejoindre](README.md)
+* [🏰 Contribuer](CONTRIBUTING.Md)
 * [⚜️ Les Rangs](pokedonjon/les-rangs.md)
 * [📩 Voter pour PokeDonjon](pokedonjon/voter-pour-pokedonjon.md)
 * [📖 Mise à Jours](pokedonjon/mise-a-jours.md)
